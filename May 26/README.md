@@ -4,4 +4,4 @@
 
 This is the Processing code snippet:
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/CodeSnippet.jpg" width="400" height="550"> <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/Screenshot.jpg" width="500">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/CodeSnippet.jpg" width="400" height="530"> <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/Screenshot.jpg" width="500">
