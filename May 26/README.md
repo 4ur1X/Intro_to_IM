@@ -4,6 +4,6 @@
 
 This is the Processing code snippet:
 
-![](https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/CodeSnippet.jpg =250x250)
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/CodeSnippet.jpg" width="100" height="100">
 
 ![](https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2026/Screenshot.jpg)
