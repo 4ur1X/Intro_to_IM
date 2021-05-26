@@ -2,7 +2,7 @@
 
 #### Using loops for() or while() in Processing.
 
-Below is the GIF of the result program :
+Below is the GIF of the resultant program's output :
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2027/starfield.gif" height="300">
 
