@@ -2,7 +2,7 @@
 
 ### Using loops for() or while() in Processing.
 
-#### STARFIELD
+#### STARFIELD: A Travel through Space
 
 Below is the GIF of the resultant program's output :
 
