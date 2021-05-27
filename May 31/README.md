@@ -4,3 +4,10 @@
 
 Below is the GIF of the resultant game :
 
+
+
+
+**Objective of the game:** To prevent the Spaceship from colliding with the asteroids.
+
+**Functions used:**
+- ````stars()````: To achieve the movement of stars.
