@@ -18,3 +18,5 @@ Below is the GIF of the resultant game :
 - ````placement_stars_asteroids()````: To randomly place (initial positions) both the stars and the asteroids on the game screen.
 - ````extra_features()````: To add extra functionalities to the game i.e. background music, load images and background.
 - ````display_text()````: To display the game's title on screen.
+
+**NOTE:** I tried to improvise on my previous homework's (26th May) program "Starfield" by modifying and adding a few other things. The whole program is now based on functions. Moreover, I changed the canvas layout and added mouseX and mouseY functionalities for the Spaceship to move along the cursor. I haven't added the collision detection with asteroids functionality yet.
