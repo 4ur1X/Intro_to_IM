@@ -1,8 +1,8 @@
 ## Homework 3 - May 31
 
-### ASTEROID ESCAPE (inpired by space shooter games)
+###  Creating a game with the help of functions in Processing.
 
-####  Creating a game with the help of functions in Processing.
+#### ASTEROID ESCAPE (inpired by space shooter games)
 
 Below is the GIF of the resultant game :
 
