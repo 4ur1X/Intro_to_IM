@@ -1,3 +1,9 @@
+/*
+NAME: Ronit Singh
+Homework: 2 (27th May)
+Title: Starfield using for() and while() loops
+*/
+
 // IMPORTING PACKAGE FOR SOUND / MUSIC
 import ddf.minim.*;
 
