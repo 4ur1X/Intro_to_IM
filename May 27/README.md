@@ -1,6 +1,8 @@
 ## Homework 2 - May 27
 
-#### Using loops for() or while() in Processing.
+### Using loops for() or while() in Processing.
+
+#### STARFIELD
 
 Below is the GIF of the resultant program's output :
 
