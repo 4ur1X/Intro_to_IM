@@ -4,7 +4,7 @@
 
 Below is the GIF of the resultant game :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2031/asteroidescape.gif" height="300">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2031/asteroidescape.gif" height="500">
 
 **Objective of the game:** To prevent the Spaceship from colliding with the asteroids.
 
