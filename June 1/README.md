@@ -1,6 +1,6 @@
 ## Homework 4 - June 1
 
-###  Creating an artwork with the help of OOP concepts in Processing.
+###  Creating an artwork with the help of OOP concept in Processing.
 
 #### BUBBLE ART
 
