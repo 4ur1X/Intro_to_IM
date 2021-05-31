@@ -8,7 +8,7 @@ Below is the GIF of the resultant artwork :
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%201/bubbles.gif" height="500">
 
-**Class used**
+**Class used:**
 - ````Bubbles````: It contains a variable to keep track of number of bubbles and a constructor to initialise it based on user input. There is also a function as given below.
 
 **Functions used:**
