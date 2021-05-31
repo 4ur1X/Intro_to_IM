@@ -14,5 +14,5 @@ Below is the GIF of the resultant artwork :
 **Functions used:**
 - ````makeBubbles()````: To create bubbles according to user's choice of the total number (initialisation through constructor).
 
-**NOTE:** This time I tried to create a simple artwork instead of creating a game. Using OOP concept while programming made the code look structured and easier to read compared to how I used to code before only using functions. Moreover, because of the constructor, user can input his desired number of bubbles to be shown on the screen. I've also used the opacity parameter (4th) of fill() function to make them look like they're overlapping.
+**NOTE:** This time I tried to create a simple artwork instead of creating a game. Using OOP concept while programming made the code look structured and easier to read compared to how I used to code before only using functions. Moreover, the constructor made it possible for the user to input his desired number of bubbles to be shown on the screen. I've also used the opacity parameter (4th) of fill() function to make them look like they're overlapping.
 
