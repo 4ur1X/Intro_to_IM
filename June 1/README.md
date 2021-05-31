@@ -4,9 +4,9 @@
 
 #### BUBBLE ART
 
-Below is the GIF of the resultant game :
+Below is the GIF of the resultant artwork :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/May%2031/asteroidescape.gif" height="500">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%201/bubbles.gif" height="500">
 
 **Objective of the game:** To prevent the Spaceship from colliding with the asteroids.
 
