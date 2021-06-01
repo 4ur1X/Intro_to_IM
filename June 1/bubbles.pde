@@ -1,3 +1,9 @@
+/*
+Name: Ronit Singh
+Date: June 1, 2021
+Title: Bubble Art
+*/
+
 // Main class for Bubbles
 class Bubbles {
   int number_of_bubbles = 0; // keeps count of the total of number of bubbles on the screen
