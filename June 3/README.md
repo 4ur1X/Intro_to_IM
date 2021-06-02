@@ -2,14 +2,14 @@
 
 ###  Creating an artwork with the help of all the things learnt in Processing.
 
-#### BUBBLE ART
+#### PLANETS / SOLAR SYSTEM
 
-Below is the GIF of the resultant artwork :
+Below is the GIF of the resultant program :
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%203/solar-final.gif" height="500">
 
 **Class used:**
-- ````Bubbles````: It contains a variable to keep track of number of bubbles and a constructor to initialise it based on user input. There is also a function as given below.
+- ````Planets````: It contains a variable to keep track of number of bubbles and a constructor to initialise it based on user input. There is also a function as given below.
 
 **Functions used:**
 - ````makeBubbles()````: To create bubbles according to user's choice of the total number (initialisation through constructor).
