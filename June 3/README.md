@@ -10,7 +10,7 @@ Below is the GIF of the resultant program :
 
 **Description**
 
-This is a simple simulation of planets in our Solar System. I've used the rotate() in-built function to make the planets rotate around the Sun. Moreover, I used  translate() in-built function to firstly center everything and then use translate() individually for each planet's placement (in the orbit) relatively. The most **time-consuming** part for me was to place the planets in the orbit properly using transformations and figuring out the coordinates. Otherwise, everything else was just simply drawing out circles (for planets and orbits) of different sizes and adding the rotate functionality, which was easy. The movement of planets don't follow the actual speed as I've arbitrarily assigned a different value.
+This is a simple simulation of planets in our Solar System. I've used the **rotate()** in-built function to make the planets rotate around the Sun. Moreover, I used  **translate()** in-built function to firstly center everything and then use translate() individually for each planet's placement (in the orbit) relatively. The most **time-consuming** part for me was to place the planets in the orbit properly using transformations and figuring out the coordinates. Otherwise, everything else was just simply drawing out circles (for planets and orbits) of different sizes and adding the rotate functionality, which was easy. The movement of planets don't follow the actual speed as I've arbitrarily assigned a different value.
 
 **Class used:**
 - ````Planets````
