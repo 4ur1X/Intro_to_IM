@@ -1,6 +1,6 @@
 ## Homework 5 - June 3
 
-###  Creating an artwork with the help of all the things learnt in Processing.
+###  Creating an artwork using transformations and classes in Processing.
 
 #### PLANETS / SOLAR SYSTEM
 
