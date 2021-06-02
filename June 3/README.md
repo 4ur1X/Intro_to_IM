@@ -9,10 +9,12 @@ Below is the GIF of the resultant program :
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%203/solar-final.gif" height="500">
 
 **Class used:**
-- (. . .)
+- ````Planets````
 
 **Functions used:**
-- (. . .)
+- ````orbits()````
+- ````planets_in_orbits()````
+- ````display_text()````
 
 **NOTE:** (. . .)
 
