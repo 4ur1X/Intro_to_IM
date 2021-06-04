@@ -1,1 +1,16 @@
+## Homework 6 - June 7
+
+###  Creating a simple work of art using some form of image manipulation and pixels.
+
+#### PIXELART
+
+Below is the screenshot of the output :
+
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%203/solar-final.gif" height="500">
+
+**Description**
+
+
+
+
 
