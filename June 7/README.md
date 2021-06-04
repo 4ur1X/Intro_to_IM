@@ -6,7 +6,7 @@
 
 Below is the screenshot of the output :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%203/solar-final.gif" height="500">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%207/screenshot1.jpg" height="500">
 
 **Description**
 
