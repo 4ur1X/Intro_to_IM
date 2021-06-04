@@ -10,7 +10,7 @@ Below is the screenshot of the different outputs using different images :
 
 **Description**
 
-This artwork is made by manipulating the normal image by converting it to pixels. In the output, the normal image can be seen in the top-right corner for the purpose of comparing. I used circles (ellipse) to represent each pixel. Moreover, I have used opacity as an additional parameter to make the output look blended with the background and not standout or appear too bright on screen. The size of the dots or circles can be changed as desired by modifying the ````dotSize```` variable. This program doesn't include the ````draw()```` function because I wanted to have a static output. ````draw()```` function was giving me a flickering output, but I could stop it using ````noLoop()```` function at the end. Hence, I thought not to include it instead.
+This artwork is made by manipulating the normal image by converting it to pixels. In the output, the normal image can be seen in the top-right corner for the purpose of comparing. I used circles (ellipse) to represent each pixel. Moreover, I have used opacity as an additional parameter to make the output look blended with the background and not standout or appear too bright on screen. The size of the dots or circles can be changed as desired by modifying the ````dotSize```` variable. This program doesn't include the ````draw()```` function (all code in ````setup()````) because I wanted to have a static output. ````draw()```` function was giving me a flickering output, but I could stop it using ````noLoop()```` function at the end. Hence, I thought not to include it instead.
 
 
 
