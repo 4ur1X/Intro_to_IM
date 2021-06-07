@@ -9,4 +9,4 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 **June 8**
 
 - My first step is to draw / plan out the intitial layout of the screen and the colors that will be used.
-- I will try to start coding for the visualizer part as I feel it's going to be a bit challenging.
+- I will try to start coding for the visualizer part today as I feel it's going to be a bit challenging.
