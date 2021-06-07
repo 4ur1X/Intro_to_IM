@@ -1,1 +1,3 @@
+## Midterm Project
 
+#### GAME NAME
