@@ -13,3 +13,5 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 - Here is the initial screen (with hover effect) after running the program.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/initialscreen.gif" height="280">
+
+**June 9**
