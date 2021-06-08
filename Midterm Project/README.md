@@ -1,6 +1,6 @@
 ## Midterm Project Journal
 
-#### GAME NAME
+#### TunesUI MP3 Player
 
 **Description**
 
