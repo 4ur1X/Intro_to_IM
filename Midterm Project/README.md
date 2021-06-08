@@ -8,7 +8,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 
 **June 8**
 
-- My first step is to draw / plan and figure out the intitial layout of the screen and the colors that will be used along with designing of the logo.
+- My first step is to draw / plan and figure out the intitial layout of the screen and the colors that will be used along with designing the logo.
 - I will try to start coding for either the visualizer part or song progress bar today as I feel these are going to be a bit challenging compared to other features.
 - Here is the initial screen (with hover effect) after running the program. Click functionality not added yet.
 
