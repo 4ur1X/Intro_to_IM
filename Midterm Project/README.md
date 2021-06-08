@@ -8,13 +8,14 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 
 **June 8**
 
-- My first step is to draw / plan out the intitial layout of the screen and the colors that will be used.
+- My first step is to draw / plan and figure out the intitial layout of the screen and the colors that will be used.
 - I will try to start coding for either the visualizer part or song progress bar today as I feel these are going to be a bit challenging compared to other features.
-- Here is the initial screen (with hover effect) after running the program.
+- Here is the initial screen (with hover effect) after running the program. Click functionality not added yet.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/initialscreen.gif" height="280">
 
 **June 9**
 
-- I will continue to work on the song progress bar.
+- I will continue to work on the song progress bar and add click functionality for the two options i.e. Play and Explore to direct to another screen.
 - PLAY screen will be completed by today.
+- I'll explore and gather specific images and songs to be used in the program.
