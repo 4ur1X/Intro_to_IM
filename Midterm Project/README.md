@@ -16,6 +16,6 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 
 **June 9**
 
-- I will continue to work on the song progress bar and add click functionality for the two options i.e. Play and Explore to direct to respective screens.
+- I will continue to work on the song progress bar and add click functionality for the two options i.e. Play and Explore to direct the users to respective screens.
 - PLAY screen will be completed by today.
 - I'll explore and gather specific images and songs to be used in the program.
