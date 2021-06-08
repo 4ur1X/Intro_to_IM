@@ -15,3 +15,6 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/initialscreen.gif" height="280">
 
 **June 9**
+
+- I will continue to work on the song progress bar.
+- PLAY screen will be completed by today.
