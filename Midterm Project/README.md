@@ -48,3 +48,8 @@ I have used the ````map()```` function to track the duration of song covered and
   - **right and left arrow keys** : for changing songs (similar to next and previous).
   - **up and down arrow keys** : for increasing or decreasing the volume.  
 - Work on EXPLORE screen that would consist of a list of preloaded songs from which the user can select and play.
+
+I've added the **Pause** functionality (as shown in the left GIF). On the right GIF, is the finished EXPLORE screen (containing names of the music artists). To choose a particular artist, the user should click on the green circle (similar to a button) located in the top-right corner in each box. 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/pause.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
+
