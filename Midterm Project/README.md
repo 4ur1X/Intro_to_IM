@@ -39,6 +39,6 @@ The appearance of the canvas is such that the title of the song being played wil
   line(45, 450, TimeStamp, 450);
   //----------------------------------------------------------------------
 ````
-I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````. As the back button (top-left corner) is clicked, the user goes back to the main initial screen and the song stops playing. This happens because I make use of a variable ````start```` which is initially set to 0 and when the user clicks either PLAY or EXPLORE, the values change to 1 and 2 respectively. Through which, I use conditional statements to track which screen the user is on.
+I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````. As the back button (top-left corner) is clicked, the user goes back to the main initial screen and the song stops playing. This happens because I make use of a variable ````start```` which is initially set to 0 and when the user clicks either PLAY or EXPLORE, its values change to 1 or 2 respectively. Through which, I use conditional statements to track which screen the user is on.
 
 ## June 10 
