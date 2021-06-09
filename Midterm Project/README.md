@@ -25,7 +25,7 @@ So, here is the result of today's programming. I could implement everything as w
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/PLAY.gif" height="280">
 
-The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code in the end :)
+The appearance of the screen is such that the title of the song being played will be displayed at the bottom with the artist's name, along with a rotating circle around the artist's image. The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code in the end :)
 
 ````
   // SONG PROGRESS BAR ---------------------------------------------------
