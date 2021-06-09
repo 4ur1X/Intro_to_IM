@@ -25,7 +25,7 @@ So, here is the result of today's programming. I could implement everything as w
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/PLAY.gif" height="280">
 
-The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code :)
+The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code in the end :)
 
 ````
   // SONG PROGRESS BAR ---------------------------------------------------
@@ -38,5 +38,5 @@ The song can be made to play from specific parts by just clicking on the song pr
   stroke(231, 33, 93);
   line(45, 450, TimeStamp, 450);
   //----------------------------------------------------------------------
-
 ````
+I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````.
