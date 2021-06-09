@@ -20,3 +20,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 - PLAY screen will be completed by today.
 - I will add a back button as well to go back to the main initial screen.
 - I'll explore and gather specific images and songs to be used in the program.
+
+So, here is the result of today's programming. Could implement everything as written above.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/PLAY.gif" height="280">
