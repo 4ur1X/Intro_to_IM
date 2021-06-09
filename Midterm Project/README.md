@@ -42,3 +42,9 @@ The appearance of the canvas is such that the title of the song being played wil
 I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````. As the back button (top-left corner) is clicked, the user goes back to the main initial screen and the song stops playing. This happens because I make use of a variable ````start```` which is initially set to 0 and when the user clicks either PLAY or EXPLORE, its values change to 1 or 2 respectively. Through which, I use conditional statements to track which screen the user is on.
 
 ## June 10 
+
+- Implement other button functions on PLAY screen i.e. play, pause, next, previous etc. 
+- My idea is to add a way for using keys by:
+  - **right and left arrow keys** : for changing songs (similar to next and previous).
+  - **up and down arrow keys** : for increasing or decreasing the volume.  
+- Work on EXPLORE screen that would consist of a list of preloaded songs from the user can select and play.
