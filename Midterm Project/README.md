@@ -6,7 +6,7 @@
 
 My plan is to create an MP3 player with a really cool UI and visualizer, which will have more features (that I feel would be helpful for users). There'll be preloaded songs from which the user can select or switch from. Default buttons like play, pause, next, fast-forward etc. will all be implemented. The canvas dimensions are similar to a mobile screen. The program will use all the functionalities learnt in the class until now and some extra ones. More details coming soon . . .
 
-**June 8**
+### June 8
 
 - My first step is to draw / plan and figure out the intitial layout of the screen and the colors that will be used along with designing the logo.
 - I will try to start coding for either the visualizer part or song progress bar today as I feel these are going to be a bit challenging compared to other features.
@@ -14,7 +14,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/initialscreen.gif" height="280">
 
-## June 9
+### June 9
 
 - I will continue to work on the song progress bar and add click functionality for the two options i.e. Play and Explore to direct the users to respective screens.
 - PLAY screen will be completed by today.
@@ -41,4 +41,4 @@ The appearance of the canvas is such that the title of the song being played wil
 ````
 I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````. As the back button (top-left corner) is clicked, the user goes back to the main initial screen and the song stops playing. This happens because I make use of a variable ````start```` which is initially set to 0 and when the user clicks either PLAY or EXPLORE, the values change to 1 and 2 respectively. Through which, I use conditional statements to track which screen the user is on.
 
-## June 10 
+### June 10 
