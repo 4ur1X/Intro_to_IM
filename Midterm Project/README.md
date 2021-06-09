@@ -47,4 +47,4 @@ I have used the ````map()```` function to track the duration of song covered and
 - My idea is to add a way for using keys also by:
   - **right and left arrow keys** : for changing songs (similar to next and previous).
   - **up and down arrow keys** : for increasing or decreasing the volume.  
-- Work on EXPLORE screen that would consist of a list of preloaded songs from the user can select and play.
+- Work on EXPLORE screen that would consist of a list of preloaded songs from which the user can select and play.
