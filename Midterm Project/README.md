@@ -51,7 +51,7 @@ I have used the ````map()```` function to track the duration of song covered and
 
 I've added the **Pause** functionality (as shown in the left GIF). 
 
-On the right is the GIF of the finished EXPLORE screen (containing names of the music artists). To choose a particular artist and play their song, the user should click on the green circle (similar to a button) located in the top-right corner in each box. To be honest, this screen was very time-consuming to program.
+On the right is the GIF of the finished EXPLORE screen (containing names of the music artists). To choose a particular artist and play their song, the user should click on the green circle (similar to a button) located in the top-right corner in each box. To be honest, this screen was very time-consuming to program due to coordinate positioning.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/pause.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
 
