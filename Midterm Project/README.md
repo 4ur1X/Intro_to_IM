@@ -21,6 +21,22 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 - I will add a back button as well to go back to the main initial screen.
 - I'll explore and gather specific images and songs to be used in the program.
 
-So, here is the result of today's programming. Could implement everything as written above.
+So, here is the result of today's programming. I could implement everything as written above.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/PLAY.gif" height="280">
+
+The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code :)
+
+````
+  // SONG PROGRESS BAR ---------------------------------------------------
+  strokeWeight(10);
+  stroke(204);
+  line(45, 450, width - 45, 450); //where the progress bar should end
+  stroke(0);
+
+  TimeStamp = int(map(player.position(), 0, player.length(), 45, width - 45));
+  stroke(231, 33, 93);
+  line(45, 450, TimeStamp, 450);
+  //----------------------------------------------------------------------
+
+````
