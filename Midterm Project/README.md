@@ -14,7 +14,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/initialscreen.gif" height="280">
 
-**June 9**
+## June 9
 
 - I will continue to work on the song progress bar and add click functionality for the two options i.e. Play and Explore to direct the users to respective screens.
 - PLAY screen will be completed by today.
@@ -39,4 +39,6 @@ The appearance of the canvas is such that the title of the song being played wil
   line(45, 450, TimeStamp, 450);
   //----------------------------------------------------------------------
 ````
-I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````.
+I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````. As the back button (top-left corner) is clicked, the user goes back to the main initial screen and the song stops playing. This happens because I make use of a variable ````start```` which is initially set to 0 and when the user clicks either PLAY or EXPLORE, the values change to 1 and 2 respectively. Through which, I use conditional statements to track which screen the user is on.
+
+## June 10 
