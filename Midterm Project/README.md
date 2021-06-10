@@ -58,4 +58,7 @@ Today's goals accomplished! I've added the click functionalities for all artists
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/play_full_implement.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore_full.gif" height="280">
 
+## June 10
 
+- Change artist and song names (at the bottom) of the PLAY screen and should reflect when song is changed.
+- Work on volume increase / decrease functionality using UP and DOWN arrow keys.
