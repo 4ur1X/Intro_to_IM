@@ -69,7 +69,7 @@ Moreover, the user can use the 'P' key to pause as well (if not using mouse clic
 - Add click sounds.
 - I need to add the RESTART functionality too, including the use of 'R' key to do it.
 
-I was just playing around with the code and trying to gather some new ideas. After which, I thought to give my Audio Player an ability to be controlled by using just the keyboard in addition to the mouse.
+I was just playing around with the code and trying to gather some new ideas. After which, I thought to give my Audio Player an ability to be controlled or navigated by just using the keyboard in addition to the mouse.
 
 Almost all the functionalities can be performed by using the following keys :
 
