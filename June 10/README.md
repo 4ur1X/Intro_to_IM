@@ -6,7 +6,7 @@
 
 Below is the GIF of the resultant Arduino program :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%203/solar-final.gif" height="500">
+<img src="" height="500">
 
 **Description**
 
