@@ -80,3 +80,5 @@ Almost all the functionalities can be performed by using the following keys :
 - **"M"** key : On the PLAY screen, to **MUTE** or **UNMUTE** the song at any point of time.
 - Numbers **1 - 6** keys : On the EXPLORE screen, to navigate to a particular artist's song without clicking directly.
 - **ENTER** key : On the initial screen, to directly go to the PLAY screen.
+
+Right now, all of these work fine without any issues.
