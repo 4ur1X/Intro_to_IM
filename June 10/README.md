@@ -6,7 +6,7 @@
 
 Below is the GIF of the resultant Arduino program :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2010/Demo/ledlights.gif" height="500">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2010/Demo/ledlights.gif" height="200">
 
 **Description**
 
