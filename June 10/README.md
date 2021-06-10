@@ -17,4 +17,4 @@ I tried to implement three different patterns of blinking using conditions.
 
 Below is the **schematic** of the circuit :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2010/Schematic/schematic.jpg" height="200">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2010/Schematic/schematic.jpg" height="300">
