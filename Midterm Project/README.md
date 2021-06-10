@@ -53,7 +53,7 @@ I've added the **Pause** functionality (as shown in the left GIF).
 
 On the right is the GIF of the finished EXPLORE screen (containing names of the music artists). To choose a particular artist and play their song, the user should click on the green circle (similar to a button) located in the top-right corner in each box. To be honest, this screen was very time-consuming to program due to coordinate positioning.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/play_full_implement.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
-
 Today's goals accomplished! I've added the click functionalities for all artists (in EXPLORE screen) to choose and play the respective song. The next and previous buttons also added which can be done with right and left keys as well. While coding, I also came across the idea of using the 'M' key for muting and unmuting the song, which works perfectly well!
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/play_full_implement.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
 
