@@ -62,3 +62,4 @@ Today's goals accomplished! I've added the click functionalities for all artists
 
 - Change artist and song names (at the bottom) of the PLAY screen and should reflect when song is changed.
 - Work on volume increase / decrease functionality using UP and DOWN arrow keys.
+- Comment the code and explain.
