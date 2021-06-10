@@ -67,3 +67,4 @@ Moreover, the user can use the 'P' key to pause as well (if not using mouse clic
 - Comment the code and explain.
 - Optimize the code and make it more efficient and shorter (in terms of total lines of code).
 - Add click sounds.
+- I need to add the RESTART functionality too, including the use of 'R' key to do it.
