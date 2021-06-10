@@ -71,7 +71,7 @@ Moreover, the user can use the 'P' key to pause as well (if not using mouse clic
 
 I was just playing around with the code and trying to gather some new ideas. After which, I thought to give my Audio Player an ability to be controlled by using just the keyboard in addition to the mouse.
 
-These functionalities can be performed by using the following keys :
+Almost all the functionalities can be performed by using the following keys :
 
 - **UP** and **DOWN** arrows : On the initial screen, to navigate to PLAY screen (press UP) or EXPLORE screen (press DOWN).
 - **RIGHT** and **LEFT** arrows : On the PLAY screen, to change to the next (press RIGHT) or previous songs (press LEFT).
