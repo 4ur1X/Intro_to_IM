@@ -18,7 +18,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 
 - I will continue to work on the song progress bar and add click functionality for the two options i.e. Play and Explore to direct the users to respective screens.
 - PLAY screen will be completed by today.
-- I will add a back button as well to go back to the main initial screen.
+- I will add a back button as well to go back to the main initial screen, and when the user clicks back button, the song stops playing. 
 - I'll explore and gather specific images and songs to be used in the program.
 
 So, here is the result of today's programming. I could implement everything as written above.
