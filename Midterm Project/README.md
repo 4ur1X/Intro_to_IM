@@ -55,7 +55,7 @@ On the right is the GIF of the finished EXPLORE screen (containing names of the 
 
 Today's goals accomplished! I've added the click functionalities for all artists (in EXPLORE screen) to choose and play the respective song (shown in third GIF). The next and previous buttons also added which can be done with right and left keys as well (shown in first-left GIF). While coding, I also came across the idea of using the 'M' key for muting and unmuting the song, which works perfectly fine!
 
-Moreover, the user can use the 'P' key to pause as well (if not using mouse click). The same key can again be pressed to resume playing the song.
+Moreover, the user can use the 'P' key to pause as well (if not using mouse click). The same key can again be pressed to resume the song.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/play_full_implement.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore_full.gif" height="280">
