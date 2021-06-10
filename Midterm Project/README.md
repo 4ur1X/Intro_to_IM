@@ -53,7 +53,9 @@ I've added the **Pause** functionality (as shown in the left GIF).
 
 On the right is the GIF of the finished EXPLORE screen (containing names of the music artists). To choose a particular artist and play their song, the user should click on the green circle (similar to a button) located in the top-right corner in each box. To be honest, this screen was very time-consuming to program due to coordinate positioning.
 
-Today's goals accomplished! I've added the click functionalities for all artists (in EXPLORE screen) to choose and play the respective song (shown in third GIF). The next and previous buttons also added which can be done with right and left keys as well (shown in first-left GIF). While coding, I also came across the idea of using the 'M' key for muting and unmuting the song, which works perfectly fine!
+Today's goals accomplished! I've added the click functionalities for all artists (in EXPLORE screen) to choose and play the respective song (shown in third GIF). The next and previous buttons also added which can be done with right and left keys as well (shown in first-left GIF). I have implemented two arrays ````which_song[]```` and ````which_artist[]```` to load and store different songs with their respective artists' image or logo.
+
+While coding, I also came across the idea of using the 'M' key for muting and unmuting the song, which works perfectly fine!
 
 Moreover, the user can use the 'P' key to pause as well (if not using mouse click). The same key can again be pressed to resume the song.
 
