@@ -95,7 +95,7 @@ I've added the **restart button** at the top-right corner. When clicked, the son
 
 ## June 12
 
-- I have to now work on INSTRUCTIONS page. There'll be an icon in the bottom-rigth corner which the user can click and it will take him to that screen.
+- I have to now work on the **INSTRUCTIONS** page. There'll be an icon in the bottom-rigth corner which the user can click and it will take him to that screen.
 
 
 
