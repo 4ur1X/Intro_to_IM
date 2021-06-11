@@ -84,3 +84,11 @@ Almost all the functionalities can be performed by using the following keys :
 - **ENTER** key : On the initial screen, to directly go to the PLAY screen.
 
 Right now, all of these work fine without any issues.
+
+I've added the **restart button** at the top-right corner. When clicked, the song returns to the beginning (left GIF). The right GIF shows the completed PLAY screen including the name changes when song is chnaged (right GIF).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/restart.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/next_previous.gif" height="280">
+
+
+
