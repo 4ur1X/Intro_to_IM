@@ -88,12 +88,14 @@ Almost all the functionalities can be performed by using the following keys :
 
 Right now, all of these work fine without any issues.
 
-I've added the **restart button** at the top-right corner. When clicked, the song returns to the beginning (see the progress bar) (left GIF). The right GIF shows the completed PLAY screen reflecting the name changes when a song is changed (right GIF). The volume can be controlled by using **UP** and **DOWN** keys, when on PLAY screen.
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/restart.gif" height="280">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/next_previous.gif" height="280">
 
+I've added the **restart button** at the top-right corner. When clicked, the song returns to the beginning (see the progress bar) (left GIF). The right GIF shows the completed PLAY screen reflecting the name changes when a song is changed (right GIF). The volume can be controlled by using **UP** and **DOWN** keys, when on PLAY screen.
+
 ## June 12
+
+- I have to now work on INSTRUCTIONS page. There'll be an icon in the bottom-rigth corner which the user can click and it will take him to that screen.
 
 
 
