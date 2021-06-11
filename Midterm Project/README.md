@@ -94,6 +94,7 @@ I've added the **restart button** at the top-right corner. When clicked, the son
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/next_previous.gif" height="280">
 
 ALMOST NEAR TO COMPLETION!
+
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/simply.gif" height="100">
 
 
