@@ -81,8 +81,10 @@ Almost all the functionalities can be performed by using the following keys :
 - **"R"** key : On the PLAY screen, to **RESTART** the song at any point of time.
 - **"P"** key : On the PLAY screen, to **PAUSE** the song at any point of time.
 - **"M"** key : On the PLAY screen, to **MUTE** or **UNMUTE** the song at any point of time.
+- **"B"** key : To return back to the previous / initial screen.
 - Numbers **1 - 6** keys : On the EXPLORE screen, to navigate to a particular artist's song without clicking directly.
 - **ENTER** key : On the initial screen, to directly go to the PLAY screen.
+- **SPACE** key : On the initial screen, to go to the **INSTRUCTIONS** screen.
 
 Right now, all of these work fine without any issues.
 
