@@ -76,6 +76,7 @@ I was just playing around with the code and trying to gather some new ideas. Aft
 Almost all the functionalities can be performed by using the following keys :
 
 - **UP** and **DOWN** arrows : On the initial screen, to navigate to PLAY screen (press UP) or EXPLORE screen (press DOWN).
+- **UP** and **DOWN** arrows : On the PLAY screen, to increase or decrease the volume of the song.
 - **RIGHT** and **LEFT** arrows : On the PLAY screen, to change to the next (press RIGHT) or previous songs (press LEFT).
 - **"R"** key : On the PLAY screen, to **RESTART** the song at any point of time.
 - **"P"** key : On the PLAY screen, to **PAUSE** the song at any point of time.
@@ -85,7 +86,7 @@ Almost all the functionalities can be performed by using the following keys :
 
 Right now, all of these work fine without any issues.
 
-I've added the **restart button** at the top-right corner. When clicked, the song returns to the beginning (see the progress bar) (left GIF). The right GIF shows the completed PLAY screen reflecting the name changes when a song is changed (right GIF). The volume can be controlled by using **UP** and **DOWN** keys.
+I've added the **restart button** at the top-right corner. When clicked, the song returns to the beginning (see the progress bar) (left GIF). The right GIF shows the completed PLAY screen reflecting the name changes when a song is changed (right GIF). The volume can be controlled by using **UP** and **DOWN** keys, when on PLAY screen.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/restart.gif" height="280">
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/next_previous.gif" height="280">
