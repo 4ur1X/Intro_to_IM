@@ -104,10 +104,4 @@ I've added the **restart button** at the top-right corner. When clicked, the son
 
 **NOTE:** It can also be done using the keyboard by pressing either **'SPACE'** or **'I'** key.
 
-
-
-
-
-
-
-
+The instructions screen wasn't made using the ````text()```` function of Processing. Instead, I used a designing tool and typed all the text in that and took screenshot. I thought to approach this way because this wasn't a big deal to the program and to avoid the hassle of coordinate positioning for each single line of text. 
