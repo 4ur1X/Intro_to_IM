@@ -95,7 +95,13 @@ I've added the **restart button** at the top-right corner. When clicked, the son
 
 ## June 12
 
-- I have to now work on the **INSTRUCTIONS** page. There'll be an icon in the bottom-rigth corner which the user can click and it will take him to that screen.
+- I have to now work on the **INSTRUCTIONS** page. On the initial screen, there'll be an icon in the bottom-rigth corner which the user can click and it will take him to that screen.
+
+**UPDATE:** I have completed the task outlined above. Below is the GIF.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/next_previous.gif" height="280">
+
+
 
 
 
