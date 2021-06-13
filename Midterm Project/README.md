@@ -4,7 +4,7 @@
 
 **Description**
 
-My plan is to create an MP3 player with a really cool UI and visualizer, which will have more features (that I feel would be helpful for users). There'll be preloaded songs from which the user can select or switch from. Default buttons like play, pause, next, fast-forward etc. will all be implemented. The canvas dimensions are similar to a mobile screen. The program will use all the functionalities learnt in the class until now and some extra ones. More details coming soon . . .
+My plan is to create an MP3 player with a really cool UI and visualizer, which will have more features (that I feel would be helpful for users). There'll be preloaded songs from which the user can select or switch from. Default buttons like play, pause, next, fast-forward etc. will all be implemented. The canvas dimensions are similar to a mobile screen. The program will use all the functionalities learnt in the class until now and some extra ones. The audio player can be controlled by keyboard as well.
 
 ## June 8
 
