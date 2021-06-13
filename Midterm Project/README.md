@@ -109,4 +109,5 @@ The instructions screen wasn't made using the ````text()```` function of Process
 ## June 13
 
 - Do a final review of everything (code + output + journal).
+- Add click / button sounds.
 - Upload a video demonstration on YouTube.
