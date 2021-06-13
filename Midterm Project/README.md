@@ -108,5 +108,5 @@ The instructions screen wasn't made using the ````text()```` function of Process
 
 ## June 13
 
-- Do a final review of everything (code + output).
+- Do a final review of everything (code + output + journal).
 - Upload a video demonstration on YouTube.
