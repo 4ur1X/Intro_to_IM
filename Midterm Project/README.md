@@ -109,3 +109,9 @@ The instructions screen wasn't made using the ````text()```` function of Process
 - Do a final review of everything (code + output + journal).
 - Add click / button sounds.
 - Upload a video demonstration on YouTube. [Click here](https://www.youtube.com/watch?v=jPg9lxFw0Ys) to watch.
+
+**Status:** All task done! I found a click sound online that I added to all mouse clicks.
+
+## June 14
+
+**Final Reflection / Thoughts**
