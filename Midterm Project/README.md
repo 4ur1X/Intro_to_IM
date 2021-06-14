@@ -21,9 +21,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 - I will add a back button as well to go back to the main initial screen, and when the user clicks back button, the song stops playing. 
 - I'll explore and gather specific images and songs to be used in the program.
 
-So, here is the result of today's programming. I could implement everything as written above.
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/PLAY.gif" height="280">
+Status: All goals accomplished.
 
 The appearance of the canvas is such that the title of the song being played will be displayed at the bottom with the artist's name, along with a rotating circle around the artist's image (````translate()```` and ````rotate()````). The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code in the end :)
 
