@@ -121,7 +121,7 @@ The coding process was really smooth for me. I didn't encounter any difficulties
 **NOTE:** I've used the MINIM library for audio instead of using the one by Processing.
 
 **Class used:**
-- ````TunesUI````
+- ````TunesUI```` : Contains the below functions.
 
 **Functions used:**
 - ````load_images()```` : To load all the artists images to be displayed on the PLAY screen.
