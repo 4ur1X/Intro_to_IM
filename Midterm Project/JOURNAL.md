@@ -37,6 +37,13 @@ The appearance of the canvas is such that the title of the song being played wil
   line(45, 450, TimeStamp, 450);
   //----------------------------------------------------------------------
 ````
+````
+  // PROGRESS BAR functionality on CLICK
+  if (mouseX > 45 && mouseX < width - 45 && mouseY > 430 && mouseY < 460) {
+    position2 = int( map( mouseX, 45, width - 45, 0, playlist[which_song].length() ) );
+    playlist[which_song].cue( position2 );
+  }
+````
 I have used the ````map()```` function to track the duration of song covered and other line designing functions like ````stroke()```` and ````strokeWeight()````. As the back button (top-left corner) is clicked, the user goes back to the main initial screen and the song stops playing. This happens because I make use of a variable ````start```` which is initially set to 0 and when the user clicks either PLAY or EXPLORE, its values change to 1 or 2 respectively. Through which, I use conditional statements to track which screen the user is on.
 
 ## June 10 
@@ -108,4 +115,27 @@ The instructions screen wasn't made using the ````text()```` function of Process
 
 - Do a final review of everything (code + output + journal).
 - Add click / button sounds.
-- Upload a video demonstration on YouTube.
+- Upload a video demonstration on YouTube. [Click here](https://www.youtube.com/watch?v=jPg9lxFw0Ys) to watch.
+
+**Status:** All task done! I found a click sound online that I added to all mouse clicks.
+
+## June 14
+
+**Final Reflection / Thoughts**
+
+The coding process was really smooth for me. I didn't encounter any difficulties apart from often getting stuck on coding the song progress bar. Although it seems simple looking at the code, but the thought process was a bit difficult for me. So, I just explored around on the internet and got a clear understanding of how to code it. Otherwise, everything was simple especially because I had some experience in making games in Processing in my Intro to CS class. While I had faced many difficulties that time, but this time around I knew the mistakes I had to avoid and knew some workarounds and tricks. The journalling process made it a lot smoother because I was clear on my daily goals. I didn't try going beyond the everyday tasks even if I had time. I knew I'd be able to complete by the deadline.
+
+**NOTE:** I've used the MINIM library (installing separately might be required) for audio instead of using the one by Processing.
+
+**Class used:**
+- ````TunesUI```` : Contains the functions below.
+
+**Functions used:**
+- ````load_images()```` : To load all the artists images to be displayed on the PLAY screen.
+- ````initial_screen()```` : Contains the graphical part of the initial screen.
+- ````play_screen()```` : The actual screen where the song starts playing.
+- ````title_at_the_bottom()```` : To change the artist and song title when song is changed.
+- ````next_previous()```` : The next and previous buttons to change songs.
+- ````explore()```` : The screen where the user gets to explore and choose the song.
+
+To view the short Demo, [Click here](https://www.youtube.com/watch?v=jPg9lxFw0Ys)
