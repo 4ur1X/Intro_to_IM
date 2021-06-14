@@ -117,3 +117,16 @@ The instructions screen wasn't made using the ````text()```` function of Process
 **Final Reflection / Thoughts**
 
 The coding process was really smooth for me. I didn't encounter any difficulties apart from often getting stuck on coding the song progress bar. Although it seems simple looking at the code, but the thought process was a bit difficult for me. So, I just explored around on the internet and got a clear understanding of how to code it. Otherwise, everything was simple especially because I had some experience in making games in Processing in my Intro to CS class. While I had faced many difficulties that time, but this time around I knew the mistakes I had to avoid and knew some workarounds or tricks. The journalling process made it a lot smoother because I was clear on my daily goals. I didn't try going beyond the everyday tasks even if I had time. I knew I'd be able to complete by the deadline.
+
+**NOTE:** I've used the MINIM library for audio instead of using the one by Processing.
+
+**Class used:**
+- ````TunesUI````
+
+**Functions used:**
+- ````load_images()```` : To load all the artists images to be displayed on the PLAY screen.
+- ````initial_screen()```` : Contains the graphical part of the initial screen.
+- ````play_screen()```` : The actual screen where the song starts playing.
+- ````title_at_the_bottom()```` : To change the artist and song title when song is changed.
+- ````next_previous()```` : The next and previous buttons to change songs.
+- ````explore()```` : The screen where the user gets to explore and choose the song.
