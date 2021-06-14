@@ -115,3 +115,5 @@ The instructions screen wasn't made using the ````text()```` function of Process
 ## June 14
 
 **Final Reflection / Thoughts**
+
+The coding was really smooth for me. I didn't encounter any difficulties. Especially because I had some experience in making games in Processing in my Intro to CS class. While I had faced many difficulties that time, but this time around I knew the mistakes I had to avoid and knew some workarounds or tricks. The journalling process made it a lot smoother because I was clear on my daily goals. I didn't try going beyond the everyday tasks even if I had time. I knew I'd be able to complete by the deadline.
