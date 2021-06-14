@@ -118,7 +118,7 @@ The instructions screen wasn't made using the ````text()```` function of Process
 
 The coding process was really smooth for me. I didn't encounter any difficulties apart from often getting stuck on coding the song progress bar. Although it seems simple looking at the code, but the thought process was a bit difficult for me. So, I just explored around on the internet and got a clear understanding of how to code it. Otherwise, everything was simple especially because I had some experience in making games in Processing in my Intro to CS class. While I had faced many difficulties that time, but this time around I knew the mistakes I had to avoid and knew some workarounds and tricks. The journalling process made it a lot smoother because I was clear on my daily goals. I didn't try going beyond the everyday tasks even if I had time. I knew I'd be able to complete by the deadline.
 
-**NOTE:** I've used the MINIM library for audio instead of using the one by Processing.
+**NOTE:** I've used the MINIM library (installing separately might be required) for audio instead of using the one by Processing.
 
 **Class used:**
 - ````TunesUI```` : Contains the functions below.
