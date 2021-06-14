@@ -12,7 +12,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 - I will try to start coding for either the visualizer part or song progress bar today as I feel these are going to be a bit challenging compared to other features.
 - Here is the initial screen (with hover effect) after running the program. Click functionality not added yet.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/initialscreen.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/initialscreen.gif" height="280">
 
 ## June 9
 
@@ -21,9 +21,7 @@ My plan is to create an MP3 player with a really cool UI and visualizer, which w
 - I will add a back button as well to go back to the main initial screen, and when the user clicks back button, the song stops playing. 
 - I'll explore and gather specific images and songs to be used in the program.
 
-So, here is the result of today's programming. I could implement everything as written above.
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/PLAY.gif" height="280">
+Status: All goals accomplished.
 
 The appearance of the canvas is such that the title of the song being played will be displayed at the bottom with the artist's name, along with a rotating circle around the artist's image (````translate()```` and ````rotate()````). The song can be made to play from specific parts by just clicking on the song progress bar (as demonstrated in the GIF above). Initially I thought it would be a little difficult to implement it, but it turned out to be a 7 line code in the end :)
 
@@ -59,8 +57,8 @@ While coding, I also came across the idea of using the 'M' key for muting and un
 
 Moreover, the user can use the 'P' key to pause as well (if not using mouse click). The same key can again be pressed to resume the song.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/play_full_implement.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore.gif" height="280">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/explore_full.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/play_full_implement.gif" height="280"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/explore.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/explore_full.gif" height="280">
 
 ## June 11
 
@@ -88,8 +86,8 @@ Almost all the functionalities can be performed by using the following keys :
 
 Right now, all of these work fine without any issues.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/restart.gif" height="280">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/next_previous.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/restart.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/next_previous.gif" height="280">
 
 I've added the **restart button** at the top-right corner. When clicked, the song returns to the beginning (see the progress bar) (left GIF). The right GIF shows the completed PLAY screen reflecting the name changes when a song is changed (right GIF). The volume can be controlled by using **UP** and **DOWN** keys, when on PLAY screen.
 
@@ -99,8 +97,8 @@ I've added the **restart button** at the top-right corner. When clicked, the son
 
 **UPDATE:** I have completed the task outlined above. Below is the GIF.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/instructions.gif" height="280">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/instructions.jpg" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/instructions.gif" height="280">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/GIF%20Demos/instructions.jpg" height="280">
 
 **NOTE:** It can also be done using the keyboard by pressing either **'SPACE'** or **'I'** key.
 
