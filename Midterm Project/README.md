@@ -131,7 +131,7 @@ The coding process was really smooth for me. I didn't encounter any difficulties
 - ````TunesUI```` : Contains the functions below.
 
 **Functions used:**
-- ````load_images()```` : To load all the artists images to be displayed on the PLAY screen.
+- ````load_images()```` : To load all the artists' images to be displayed on the PLAY screen.
 - ````initial_screen()```` : Contains the graphical part of the initial screen.
 - ````play_screen()```` : The actual screen where the song starts playing.
 - ````title_at_the_bottom()```` : To change the artist and song title when song is changed.
