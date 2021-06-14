@@ -130,3 +130,5 @@ The coding process was really smooth for me. I didn't encounter any difficulties
 - ````title_at_the_bottom()```` : To change the artist and song title when song is changed.
 - ````next_previous()```` : The next and previous buttons to change songs.
 - ````explore()```` : The screen where the user gets to explore and choose the song.
+
+To view the short Demo, [Click here](https://www.youtube.com/watch?v=jPg9lxFw0Ys)
