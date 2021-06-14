@@ -108,6 +108,6 @@ The instructions screen wasn't made using the ````text()```` function of Process
 
 - Do a final review of everything (code + output + journal).
 - Add click / button sounds.
-- Upload a video demonstration on YouTube.
+- Upload a video demonstration on YouTube. [Click here](https://www.youtube.com/watch?v=jPg9lxFw0Ys) to watch.
 
-https://www.youtube.com/watch?v=jPg9lxFw0Ys
+https://github.com/ronit-singh/Intro_to_IM/blob/main/Midterm%20Project/MP3%20Demo.wmv
