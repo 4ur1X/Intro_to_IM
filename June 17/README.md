@@ -8,7 +8,7 @@ Below is the GIF of the result :
 
 **Description**
 
-- When the room lights are on, the LED glows **GREEN**. When the room lights are off, the LED glows **RED**.
-- When the switch / button is pressed, the LEDs blink consecutively in either of the above state.
+- **Analog Sensor :** When the room lights are on, the LED glows **GREEN**. When the room lights are off, the LED glows **RED**.
+- **Digital Sensor :** When the switch / button is pressed, the LEDs blink consecutively in either of the above state.
 
 Below is the **schematic** of the circuit :
