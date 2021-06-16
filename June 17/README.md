@@ -1,4 +1,4 @@
-## Arduino Homework 1 - June 10
+## Arduino Homework 2 - June 17
 
 ### Using analog sensor and digital sensor to control two LEDs, one in a digital fashion and the other in an analog fashion, in some creative way.
 
