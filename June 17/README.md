@@ -4,7 +4,8 @@
 
 Below is the GIF of the result :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2017/sensor_LED.jpg" height="200">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2017/sensor_LED.jpg" height="200"> &esmp;&esmp;&esmp; 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2017/sensor_LED_GIF.gif" height="200">
 
 **Description**
 
