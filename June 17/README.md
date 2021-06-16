@@ -4,6 +4,8 @@
 
 Below is the GIF of the resultant Arduino program :
 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2017/sensor_LED.jpg" height="200">
+
 **Description**
 
 Below is the **schematic** of the circuit :
