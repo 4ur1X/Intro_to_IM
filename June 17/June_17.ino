@@ -6,7 +6,7 @@
 
 int light; // for analog sensor
 const int led1 = 13;
-const int led2 = A3;
+const int led2 = 12;
 const int pushButton = A2;
 
 void setup() {
