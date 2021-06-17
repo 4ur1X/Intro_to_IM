@@ -13,3 +13,5 @@ Below is the GIF of the result :
 - **Digital Sensor :** When the switch / button is pressed, the LEDs blink consecutively in either of the above state.
 
 Below is the **schematic** of the circuit :
+
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2017/schematic_sensor.jpg" height="200">
