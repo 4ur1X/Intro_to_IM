@@ -11,3 +11,4 @@ I'm just listing down my works below (if you don't wish to click on each directo
 - **JUNE 7 -** Image manipulation using pixels.
 - **JUNE 14 -** Arduino LED blinks.
 - **JUNE 17 -** Creativity using Analog sensor and Digital sensor
+- **MIDTERM -** TunesUI MP3 Audio Player
