@@ -8,8 +8,8 @@ Below is the GIF of the result :
 
 **Description**
 
-- **Analog Sensor :** When the room lights are on, the LED glows **GREEN**. When the room lights are off, the LED glows **RED**.
-- **Digital Sensor :** When the switch / button is pressed, the LEDs blink consecutively in either of the above state.
+- **Analog Sensor :** To increase or decrease the gap / delay between the consecutive tones of the buzzer.
+- **Digital Sensor :** To increase the pitch of the buzzer by 50 on each press.
 
 Below is the **schematic** of the circuit :
 
