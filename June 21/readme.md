@@ -1,6 +1,6 @@
 ## Arduino Homework 3 - June 21
 
-### Using analog sensor and digital sensor (switch) to make a musical instrument.
+### Using analog sensor (potentiometer) and digital sensor (switch) to make a musical instrument.
 
 Below is the GIF of the result :
 
