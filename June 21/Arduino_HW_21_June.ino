@@ -4,8 +4,8 @@ Date: 21 June, 2021
 Arduino Homework MUSIC TONE
 */
 
-int buzzer = 11; // buzzer pin
-const int pushButton = 8; // switch / button pin
+int buzzer = 4; // buzzer pin
+const int pushButton = A4; // switch / button pin
 int count = 200; // initial pitch for the buzzer
 int potentiometer = A5; // potentiometer pin
 
