@@ -4,7 +4,7 @@
 
 Below is the GIF of the result :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2021/musictone.jpg" height="220"> &emsp;&emsp;&emsp; 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2021/musictone.jpg" height="230"> &emsp;&emsp;&emsp; 
 
 **Description**
 
