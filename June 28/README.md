@@ -13,7 +13,7 @@ Below is the photo of the circuit and GIF of the game :
 
 **Description**
 
-- The game's objective is to **get more hits than misses** in a maximum time of **30 seconds**. 
+- The game's objective is to **get more hits** (by placing the platform such that the ball bounces on it) than **misses** in a maximum time of **30 seconds**. 
 - The horizontal platform reduces its size by some value on each hit.
 - The ball bounces itself, but the player can move the platform left or right using the two buttons on the breadboard.
 - There is a timer on top-right corner that updates (decrements) itself every 1 second.
