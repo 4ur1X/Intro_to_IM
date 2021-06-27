@@ -4,7 +4,7 @@
 
 #### RGB Hit/Miss Game
 
-Below is the GIF of the result :
+Below is the photo of the circuit and GIF of the game :
 
 <img src="" height="230"> &emsp;&emsp;&emsp; 
 
