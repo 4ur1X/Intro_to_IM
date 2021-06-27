@@ -2,6 +2,8 @@
 
 ### Making a game using serial communication between Arduino and Processing.
 
+#### RGB Hit/Miss Game
+
 Below is the GIF of the result :
 
 <img src="" height="230"> &emsp;&emsp;&emsp; 
