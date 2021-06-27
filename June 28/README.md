@@ -12,8 +12,11 @@ Below is the photo of the circuit and GIF of the game :
 
 **Description**
 
-- **Analog Sensor :** To increase or decrease the gap / delay between the consecutive tones of the buzzer.
-- **Digital Sensor :** To increase the pitch of the buzzer by 50 on each press.
+- The game's objective is to **get more hits than misses** in a maximum time of **30 seconds**. 
+- The ball bounces itself, but the player can move the platform left or right using the two buttons on the breadboard.
+- There is a timer on top-right corner that updates itself every 1 second.
+- The live score can be seen in the top-left corner.
+- To **RESTART** the game (either in between or after game over), you can click anywhere on the canvas with the mouse, or press **'SPACE'** key. 
 
 Below is the **schematic** of the circuit :
 
