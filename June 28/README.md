@@ -6,7 +6,7 @@
 
 Below is the photo of the circuit and GIF of the game :
 
-<img src="" height="230"> &emsp;&emsp;&emsp; 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2028/rgbball.jpg" height="230"> &emsp;&emsp;&emsp; 
 
 [Click Here]() for DEMO
 
