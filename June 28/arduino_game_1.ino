@@ -1,6 +1,6 @@
 // variables for pins
-int buttonPin1 = 7;
-int buttonPin2 = 4;
+int buttonPin1 = A5;
+int buttonPin2 = A4;
 
 void setup() {
   // turn on internal pull-up resistor
