@@ -4,7 +4,9 @@
 
 **Description**
 
-My main idea is making a car game with a race track. The following components for Arduino will be used:
+My main idea is making a car game with a race track. 
+
+The following components for Arduino will be used:
 
 - **Potentiometer** : will use it like a steering wheel.
 - **Button 1** : to accelerate the car forward.
