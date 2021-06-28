@@ -22,6 +22,6 @@ Below is the photo of the circuit and GIF of the game :
 
 Below is the **schematic** of the circuit :
 
-<img src="" height="250">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2028/rgbball_schematic.jpg" height="250">
 
 
