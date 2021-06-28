@@ -10,7 +10,7 @@ My main idea is making a car game with a race track, with an objective to collec
 
 - many race tracks to choose from.
 - collect autocoins.
-- modify car (increase steering sensitivity, increase max. speed, choose from different horns) with the autocoins.
+- modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns) with the autocoins.
 
 The following components for Arduino will be used:
 
