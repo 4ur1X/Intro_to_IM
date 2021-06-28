@@ -14,4 +14,4 @@ The following components for Arduino will be used:
 - **Button 2** : to apply brake.
 - **Button 3** : Nitro / Boost.
 - **Button 4** : Horn.
-- **Buzzer** : to output horn (beep) sound.
+- **Buzzer Tone** : to output horn (beep) sound.
