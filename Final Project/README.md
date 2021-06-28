@@ -1,6 +1,6 @@
 ## Final Project Journal
 
-#### F1 Circuit Racing Game
+#### 2D Car Simulator Game
 
 **Description**
 
