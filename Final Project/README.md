@@ -15,3 +15,5 @@ The following components for Arduino will be used:
 - **Button 3** : Nitro / Boost.
 - **Button 4** : Horn.
 - **Buzzer Tone** : to output horn (beep) sound.
+
+I think I'll need to use all of the Processing items / functions for my game.
