@@ -9,7 +9,7 @@ My main idea is making a car game with a race track, with an objective to collec
 **Features (as of now):**
 
 - many race track venues to choose from.
-- collect autocoins.
+- drive and collect autocoins.
 - modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns) by purchasing using the autocoins.
 
 The following components for Arduino will be used:
