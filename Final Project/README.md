@@ -4,7 +4,9 @@
 
 **Description**
 
-My main idea is making a car game with a race track, with an objective to collect as many coins **(autocoins)** as possible.  
+My main idea is making a car game with a race track, with an objective to collect as many coins **(autocoins)** as possible.
+
+There'll be many race tracks to choose from.
 
 The following components for Arduino will be used:
 
