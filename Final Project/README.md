@@ -6,7 +6,7 @@
 
 My main idea is to implement a **training scenario** that F1 racers go through before actually racing on the final track with other racers. 
 
-The objective of the player is to complete a number of laps in a limited time by testing various parameters (by changing steering sensitivity, speed, etc.) to get the best possible time record of the fastest lap. The high score will be stored / saved in a file, so that it gets updated as soon as the record is broken.
+The objective of the player is to complete maximum number of laps in a limited time by testing various parameters (by changing steering sensitivity, speed, etc.) to get the best possible time record of the fastest lap. The high score will be stored / saved in a file, so that it gets updated as soon as the record is broken.
 
 - several race track venues to choose from.
 - drive through difficult corners.
