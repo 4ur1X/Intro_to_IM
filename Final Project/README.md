@@ -1,16 +1,16 @@
 ## Final Project Journal
 
-#### 2D Car Simulator Game
+#### F1 Car Lap Game
 
 **Description**
 
-My main idea is making a car game with a race track, with an objective to collect as many coins **(autocoins)** as possible in a limited time.
+My main idea is making a car game with a race track, with an objective to complete as many laps as possible in a limited time.
 
 **Features (as of now):**
 
 - many race track venues to choose from.
-- drive and collect autocoins.
-- modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns) by purchasing using the autocoins.
+- drive through difficult corners.
+- modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns).
 
 The following components for Arduino will be used:
 
