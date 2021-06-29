@@ -4,11 +4,13 @@
 
 **Description**
 
-My main idea is making a car game with a race track, with an objective to complete as many laps as possible in a limited time.
+My main idea is to implement a **training scenario** that F1 racers go through before actually racing on the final track with other racers. 
 
-**Features (as of now):**
+The objective of the player is to complete a number of laps in a limited time by testing various parameters (by changing steering sensitivity, speed, etc.) to get the best possible time record of the fastest lap. The high score will be stored / saved in a file, so that it gets updated as soon as the record is broken.
 
-- many race track venues to choose from.
+**The player will have the option to** :
+
+- several race track venues to choose from.
 - drive through difficult corners.
 - modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns).
 
