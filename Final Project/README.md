@@ -10,7 +10,13 @@ The objective of the player is to complete maximum number of laps in a limited t
 
 - several race track venues to choose from.
 - drive through difficult corners.
-- modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns).
+- modify your car
+  - change the steering sensitivity
+  - increase the acceleration
+  - change the car’s maximum speed
+  - modify the car’s look and sound
+    (etc . . .)
+
 
 The following components for Arduino will be used:
 
