@@ -1,21 +1,27 @@
 ## Final Project Journal
 
-#### 2D Car Simulator Game
+#### F1 Car Lap Game - Make and Break your Own Record!
 
 **Description**
 
-My main idea is making a car game with a race track, with an objective to collect as many coins **(autocoins)** as possible.
+My main idea is to implement a **training scenario** that F1 racers go through before actually racing on the final track with other racers. 
 
-**Features (as of now):**
+The objective of the player is to complete maximum number of laps in a limited time by testing various parameters (by changing steering sensitivity, speed, etc.) to get the best possible time record of the fastest lap. The high score will be stored / saved in a file, so that it gets updated as soon as the record is broken.
 
-- many race tracks to choose from.
-- collect autocoins.
-- modify your car (color, increase steering sensitivity, increase max. speed, choose from different horns) by purchasing using the autocoins.
+- several race track venues to choose from.
+- drive through difficult corners.
+- modify your car
+  - change the steering sensitivity
+  - increase the acceleration
+  - change the car’s maximum speed
+  - modify the car’s look and sound
+    (etc . . .)
+
 
 The following components for Arduino will be used:
 
 - **Potentiometer** : will use it like a steering wheel.
-- **LCD Screen** : to digitally display the car speed dynamically (like a speedometer) and total points.
+- **LCD Screen** : to digitally display the car speed dynamically (like a speedometer) and total lap time.
 - **Button 1** : to accelerate the car forward.
 - **Button 2** : to apply brake.
 - **Button 3** : Nitro / Boost.
@@ -23,4 +29,3 @@ The following components for Arduino will be used:
 - **Buzzer Tone** : to output horn (beep) sound.
 
 I think I'll need to use all of the Processing items / functions for my game.
-
