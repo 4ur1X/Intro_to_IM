@@ -1,6 +1,6 @@
 ## Final Project Journal
 
-#### NASCAR Lap Training Game - Make and Break your Own Record!
+#### NASCAR Circuit Training Game - Make and Break your Own Record!
 
 **Description**
 
@@ -29,3 +29,5 @@ The following components for Arduino will be used:
 - **Buzzer Tone** : to output horn (beep) sound.
 
 I think I'll need to use all of the Processing items / functions for my game.
+
+### June 30
