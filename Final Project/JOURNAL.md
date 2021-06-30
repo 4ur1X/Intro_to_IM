@@ -35,4 +35,4 @@ I think I'll need to use all of the Processing items / functions for my game.
 **TODAY'S TASKS** : My today's task included designing different screens for the game i.e. initial screen, story screen, choose mode screen, and choose track screen.
 I also added background music and mouse click functionality to navigate to all of those screens. Below is the GIF.
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day_1.gif" height="230"> &emsp;&emsp; 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day1.gif" height="230"> &emsp;&emsp; 
