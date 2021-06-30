@@ -30,4 +30,9 @@ The following components for Arduino will be used:
 
 I think I'll need to use all of the Processing items / functions for my game.
 
-### June 30
+## June 30
+
+**TODAY'S TASKS** : My today's task included designing different screens for the game i.e. initial screen, story screen, choose mode screen, and choose track screen.
+I also added mouse click functionality to navigate to all of those screens. Below is the GIF.
+
+
