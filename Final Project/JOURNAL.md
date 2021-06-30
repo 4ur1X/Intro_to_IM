@@ -32,7 +32,9 @@ I think I'll need to use all of the Processing items / functions for my game.
 
 ## June 30
 
-**TODAY'S TASKS** : My today's task included designing different screens for the game i.e. initial screen, story screen, choose mode screen, and choose track screen.
+**TODAY'S TASKS**
+
+My today's task included designing different screens for the game i.e. initial screen, story screen, choose mode screen, and choose track screen.
 I also added background music and mouse click functionality to navigate to all of those screens. 
 
 To navigate to the initial screen directly, one can press the 'X' key. Below is the GIF of today's completed task.
