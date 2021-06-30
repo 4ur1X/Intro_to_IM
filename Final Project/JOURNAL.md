@@ -40,3 +40,11 @@ I also added background music and mouse click functionality to navigate to all o
 To navigate to the initial screen directly, one can press the 'X' key. Below is the GIF of today's completed task.
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day1.gif" height="230"> &emsp;&emsp; 
+
+## July 1
+
+**TODAY'S TASKS**
+
+- I'll work on "customise" screen and add all the modification properties for the car.
+- I'll also work on the most important component of the game i.e. actual gameplay screen.
+- I might design different race tracks as well.
