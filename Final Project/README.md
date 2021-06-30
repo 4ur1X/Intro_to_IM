@@ -1,3 +1,3 @@
 ## Final Project Journal
 
-#### F1 Car Lap Game - Make and Break your Own Record!
+#### NASCAR Lap Training Game - Make and Break your Own Record!
