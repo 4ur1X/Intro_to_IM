@@ -51,4 +51,6 @@ To navigate to the initial screen directly, one can press the 'X' key. Below is 
 
 <img src="" height="230"> &emsp;&emsp;
 
+**EXTRA INFO** : The customize screen has several car modification options like acceleration, speed, horn sound, 
+
 I could finish customize screen today and accomplish most of the part for actual gameplay (still incomplete). I couldn't work on designing the race tracks, so I'll continue with it the next day.
