@@ -45,6 +45,10 @@ To navigate to the initial screen directly, one can press the 'X' key. Below is 
 
 **TODAY'S TASKS**
 
-- I'll work on "customise" screen and add all the modification properties for the car.
+- I'll work on "customize" screen and add all the modification properties for the car.
 - I'll also work on the most important component of the game i.e. actual gameplay screen.
 - I might design different race tracks as well.
+
+<img src="" height="230"> &emsp;&emsp;
+
+I could finish customize screen today and accomplish most of the part for actual gameplay (still incomplete). I couldn't work on designing the race tracks, so I'll continue with it the next day.
