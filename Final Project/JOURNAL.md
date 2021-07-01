@@ -54,3 +54,12 @@ To navigate to the initial screen directly, one can press the 'X' key. Below is 
 **EXTRA INFO** : The customize screen has several car modification options as you can see in the GIF. As of now, only the car model as well as color can be changed. 
 
 I could finish customize screen today and accomplish most of the part for actual gameplay (still incomplete). I couldn't work on designing the race tracks, so I'll continue with it the next day.
+
+
+## July 2
+
+**TODAY'S TASKS**
+
+- Work on main gameplay.
+- Design three race tracks.
+- Try to integrate one button and a potentiometer to move the car forward and steer, respectively.
