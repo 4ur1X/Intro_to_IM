@@ -51,6 +51,6 @@ To navigate to the initial screen directly, one can press the 'X' key. Below is 
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day2.gif" height="230"> &emsp;&emsp;
 
-**EXTRA INFO** : The customize screen has several car modification options as you can see in the GIF. The car model as well as color can also be changed. 
+**EXTRA INFO** : The customize screen has several car modification options as you can see in the GIF. As of now, only the car model as well as color can be changed. 
 
 I could finish customize screen today and accomplish most of the part for actual gameplay (still incomplete). I couldn't work on designing the race tracks, so I'll continue with it the next day.
