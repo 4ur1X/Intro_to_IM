@@ -49,7 +49,7 @@ To navigate to the initial screen directly, one can press the 'X' key. Below is 
 - I'll also work on the most important component of the game i.e. actual gameplay screen.
 - I might design different race tracks as well.
 
-<img src="" height="230"> &emsp;&emsp;
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day2.gif" height="230"> &emsp;&emsp;
 
 **EXTRA INFO** : The customize screen has several car modification options like acceleration, speed, horn sound, 
 
