@@ -60,6 +60,6 @@ I could finish customize screen today and accomplish most of the part for actual
 
 **TODAY'S TASKS**
 
-- Work on main gameplay.
+- Work on code for the main gameplay.
 - Design three race tracks.
 - Try to integrate one button and a potentiometer to move the car forward and steer, respectively.
