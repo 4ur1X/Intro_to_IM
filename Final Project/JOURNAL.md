@@ -30,6 +30,8 @@ The following components for Arduino will be used:
 
 I think I'll need to use all of the Processing items / functions for my game.
 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/race.jpg" height="230"> &emsp;&emsp; 
+
 ## June 30
 
 **TODAY'S TASKS**
