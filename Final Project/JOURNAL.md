@@ -76,4 +76,10 @@ Since the race track designing is least of my priority so I thought to push it t
 
 **TODAY'S TASKS**
 
-- 
+- Work on Instructions screen.
+
+Today I designed and completed the Instructions screen for the game. I chose not to focus much on the technical part for today.
+
+Below you can see the intructions screen:
+
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day4.gif" height="230"> &emsp;&emsp;
