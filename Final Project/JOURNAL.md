@@ -96,3 +96,10 @@ I decided to spend my whole day focusing on just one part of the gameplay i.e. s
 Here is the result:
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day5.gif" height="230"> &emsp;&emsp;
+
+## July 5
+
+**TODAY'S TASKS**
+
+- Design the main gameplay side screen to show / include score, lap time, speed, direction, track map, etc.
+- Try to synchronize various car properties / customizations (made by the player in customize screen) into the car.
