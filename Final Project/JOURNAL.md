@@ -65,3 +65,15 @@ I could finish customize screen today and accomplish most of the part for actual
 - Work on code for the main gameplay.
 - Design three race tracks.
 - Try to integrate one button and a potentiometer to move the car forward and steer, respectively.
+
+Majority of my day was spent on integrating the 3 buttons (for forward acceleration, nitro boost, and horn) as for some unknown reason, the three weren't working the way they should. At times, the when I pressed one button, the other button's functionality would also get affected. So, I had to redo and rewrite the circuit and code respectively many number of times. It should've been simple for me, but sometimes even the simple things seem hard on some days :) so I was lost.
+
+However, now it works perfectly fine as I want it to. Moreover, eventhough it wasn't mentioned in today's task, I added the buzzer (for horn) and potentiometer (for steering)  functionalities as well. Now, the only component that needs to be added is the LCD screen.
+
+Since the race track designing is least of my priority so I thought to push it to another day.
+
+## July 3
+
+**TODAY'S TASKS**
+
+- 
