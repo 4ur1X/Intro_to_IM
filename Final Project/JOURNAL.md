@@ -103,3 +103,4 @@ Here is the result:
 
 - Design the main gameplay side screen to show / include score, lap time, speed, direction, track map, etc.
 - Try to synchronize various car properties / customizations (made by the player in customize screen) into the car.
+- Add an RGB LED light to light up **green** when the car is accelerating forward, **red** when car stops, **blink purple** when the car applies nitro boost.
