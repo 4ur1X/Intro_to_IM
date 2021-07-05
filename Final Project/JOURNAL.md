@@ -119,5 +119,6 @@ Below is the completed circuit (left) and main gameplay screen (right):
 **TODAY'S TASKS**
 
 - Add customizations done by the player to affect the actual gameplay.
+- Detection of Start and Finish points on track. 
 - Add three different race tracks.
 - Add a clock / timer.
