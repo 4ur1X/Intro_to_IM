@@ -122,3 +122,4 @@ Below is the completed circuit (left) and main gameplay screen (right):
 - Detection of Start and Finish points on track. 
 - Add three different race tracks.
 - Add a clock / timer.
+- Work on two separate modes.
