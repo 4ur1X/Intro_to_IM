@@ -107,7 +107,7 @@ Here is the result:
 
 **TODAY'S OUTCOME**
 
-I could complete the whole circuit for Arduino with 3 Buttons, a Potentiometer, a LCD Screen, and a RGB LED Light. I'm also able to control the main game using these components now. An issue I faced here was that I am using potentiometer to steer the car, so I wondered how could I control the LCD screen brightness / contrast without it. However, luckily I found an easy way online by using an extra variable ````int Contrast = 118;```` and using it in ````analogWrite(3, Contrast);````, where 3 is the pin number. So, it was kind of an indirect way. To change the brightness of the screen, I can just change the ````Contrast```` value manually.
+I could complete the whole circuit for Arduino (3 Buttons, a Potentiometer, a LCD Screen, and a RGB LED Light). I'm also able to control the main game using these components now. An issue I faced here was that I am using potentiometer to steer the car, so I wondered how could I control the LCD screen brightness / contrast without it. However, luckily I found an easy way online by using an extra variable ````int Contrast = 118;```` and using it in ````analogWrite(3, Contrast);````, where 3 is the pin number. So, it was kind of an indirect way. To change the brightness of the screen, I can just change the ````Contrast```` value manually.
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6.gif" height="250"> &emsp;&emsp;
