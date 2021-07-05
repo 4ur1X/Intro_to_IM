@@ -113,3 +113,9 @@ Below is the completed circuit (left) and main gameplay screen (right):
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6.gif" height="250"> &emsp;&emsp;
+
+**INCOMPLETE TASKS (as of today)**
+
+- I'm yet to add customizations done by the player to the actual gameplay.
+- I have to add different tracks as well.
+- Add a clock / timer.
