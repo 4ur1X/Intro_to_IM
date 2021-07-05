@@ -114,7 +114,7 @@ Below is the completed circuit (left) and main gameplay screen (right):
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6.gif" height="250"> &emsp;&emsp;
 
-## July 5
+## July 6
 
 **TODAY'S TASKS**
 
