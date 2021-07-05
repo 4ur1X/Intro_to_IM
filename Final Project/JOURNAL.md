@@ -107,6 +107,7 @@ Here is the result:
 
 **TODAY'S OUTCOME**
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
+I could complete the whole circuit for Arduino with 3 Buttons, a Potentiometer, a LCD Screen, and an RGB LED Light. I'm also able to control the game using these components.
 
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6.gif" height="250"> &emsp;&emsp;
