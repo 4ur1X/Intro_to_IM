@@ -86,27 +86,27 @@ void setup() {
   size(1200, 675);
 
   minim = new Minim(this);
-  loadscreen_song = minim.loadFile("song.mp3");
+  loadscreen_song = minim.loadFile("assets/song.mp3");
 
   // loading all images
-  needle =loadImage("needle.png");
-  sidescreen = loadImage("sidescreen.png");
-  loadscreen = loadImage("loadscreen.png");
-  story = loadImage("story.png");
-  choose_track_screen = loadImage("choose_track_screen.png");
-  choose_mode_screen = loadImage("choose_mode_screen.png");
-  customize_screen = loadImage("customize_screen.png");
-  instructions_screen = loadImage("instructions_screen.png");
-  mode1 = loadImage("mode1.png");
-  mode2 = loadImage("mode2.png");
-  star = loadImage("star.jpg");
-  star2 = loadImage("star2.jpg");
-  star3 = loadImage("star3.jpg");
+  needle =loadImage("assets/needle.png");
+  sidescreen = loadImage("assets/sidescreen.png");
+  loadscreen = loadImage("assets/loadscreen.png");
+  story = loadImage("assets/story.png");
+  choose_track_screen = loadImage("assets/choose_track_screen.png");
+  choose_mode_screen = loadImage("assets/choose_mode_screen.png");
+  customize_screen = loadImage("assets/customize_screen.png");
+  instructions_screen = loadImage("assets/instructions_screen.png");
+  mode1 = loadImage("assets/mode1.png");
+  mode2 = loadImage("assets/mode2.png");
+  star = loadImage("assets/star.jpg");
+  star2 = loadImage("assets/star2.jpg");
+  star3 = loadImage("assets/star3.jpg");
 
   // loading the 3 race track images
   track = new PImage[3];
   for (int i=0; i<3; i++) {
-    track[i] = loadImage("track"+i+".jpg");
+    track[i] = loadImage("assets/track"+i+".jpg");
   }
 
   // zoom the race track
@@ -124,14 +124,14 @@ void setup() {
   checkpointPos = new PVector(1250, 700);
   checkpointSize = new PVector(1050, 250);
 
-  // 6 different colors for 3 different car models
+  // 5 different colors for 3 different car models
   car1 = new PImage[6];
   car2 = new PImage[6];
   car3 = new PImage[6];
   for (int i=0; i<6; i++) {
-    car1[i] = loadImage("car" + i + ".png");
-    car2[i] = loadImage("car2" + i + ".png");
-    car3[i] = loadImage("car3" + i + ".png");
+    car1[i] = loadImage("assets/car" + i + ".png");
+    car2[i] = loadImage("assets/car2" + i + ".png");
+    car3[i] = loadImage("assets/car3" + i + ".png");
   }
 
   myPort = new Serial(this, Serial.list()[0], 9600);
