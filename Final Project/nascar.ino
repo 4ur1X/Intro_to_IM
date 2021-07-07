@@ -45,8 +45,9 @@ void setup() {
 }
 
 void loop() {
-
-  pot = (analogRead(A0) / 4);
+  
+  // potentiometer
+  pot = (analogRead(A0) / 4); // dividing by 4 to max out to 255 since the range is from 0 to 1023
   Serial.write(pot);
 
   // read in value
