@@ -6,4 +6,4 @@
 
 #### Schematic:
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/schematic.jpg" height="250"> &emsp;&emsp;
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/schematic_final.jpg" height="250"> &emsp;&emsp;
