@@ -15,5 +15,5 @@ Below is the GIF of the result :
 
 Below is the **schematic** of the circuit :
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2021/schematic_21.jpg" height="250">
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2021/_schematic.jpg" height="250">
 
