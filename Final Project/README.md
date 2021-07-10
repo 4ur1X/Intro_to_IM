@@ -15,7 +15,7 @@ The game has to be played using the three buttons (to accelerate forward, apply 
 This is the completed circuit (left) and game screen (right):
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day3.gif" height="250"> &emsp;&emsp;
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day2.gif" height="250"> &emsp;&emsp;
 
 [Game Video Demo](https://youtu.be/b6Us0yah0hc)
 
