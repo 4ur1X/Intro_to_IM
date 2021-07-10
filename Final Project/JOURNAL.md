@@ -163,4 +163,4 @@ Then, I went over to designing the Game Over screens in Canva. In mode 1, the sc
 - Clean up the code and optimize
 - Add comments to the final code (in both Processing and Arduino)
 
-Today is the last day and I've been managing my time since the start so I don't have much left to do now except the ones I listed above, which will only take me an hour.
+Today is the last day and I've been managing my time since the start so I don't have much left to do now except the ones I listed above, which will only take me an hour or so.
