@@ -137,3 +137,20 @@ boolean isInsideRect(PVector p, PVector rp, PVector rs) {
   return false;
 }
 ````
+
+## July 7
+
+**TODAY'S TASKS**
+
+I'm almost done with most part of the game by now. Only a few things that are left to be implemented are the following: 
+- Game Over screen for two different modes
+- Timer / Clock
+- Add Reset and Restart functionality
+
+I thought to start my day by implementing a stopwatch (starts automatically when the race starts) to get an easy start. The code is as below:
+
+````
+if (raceStarted == true) {
+    raceTime += 1 / frameRate; // seconds timer
+````
+Then, I went over to designing the Game Over screens in Canva. In mode 1, the screen displays the total number of laps covered in a particular time. While in mode 2, the screen displays the total time it took to complete one lap. Other than that, implementing reset and restart wasn't hard and didn't take much of my time as it was something I had done many number of times previously.
