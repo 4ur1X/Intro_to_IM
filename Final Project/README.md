@@ -12,6 +12,10 @@ The player can choose from three different tracks as well.
 
 The game has to be played using the three buttons (to accelerate forward, apply nitro, horn respectively) and a potentiometer for steering the car.
 
+This is the completed circuit:
+
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
+
 [Game Video Demo](https://youtu.be/b6Us0yah0hc)
 
 #### Schematic:
