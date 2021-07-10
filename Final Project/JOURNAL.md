@@ -163,4 +163,20 @@ Then, I went over to designing the Game Over screens in Canva. In mode 1, the sc
 - Clean up the code and optimize
 - Add comments to the final code (in both Processing and Arduino)
 
-Today is the last day and I've been managing my time since the start so I don't have much left to do now except the ones I listed above, which will only take me an hour or so.
+Today is the last day and I've been managing my time since the start of the project so I don't have much left to do now except the ones I listed above, which will only take me an hour or so to complete.
+
+## Struggles and Workarounds
+
+I struggled with implementing the detection of start and finish of one lap as the coordinates kept on changing when the car moved. This was because I wasn't actually moving the car, but the background in the opposite direction of the car instead (to give it an illusion of car's movement). So, in order to achieve the detection correctly, I added two components ````checkpointPos.add(vel);```` and ````startPos.add(vel);````to the ````moveBackround()```` function.
+
+````
+void movetrack(PVector vel) {
+  vel.x = -vel.x;
+  vel.y = -vel.y;
+  startPos.add(vel);
+  checkpointPos.add(vel);
+  trackPos.add(vel);
+}
+````
+
+Moreover, I had to actually figure out a way to use LCD Screen without Potentiometer (solution mentioned above under July 5) and I luckliy found a way online!
