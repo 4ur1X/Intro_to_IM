@@ -126,4 +126,14 @@ Below is the completed circuit (left) and main gameplay screen (right):
 - Add three different race tracks.
 - Work on two separate modes.
 
-"Add customizations done by the player to affect the actual gameplay" was accomplished by just maintaining extra variables for each car and updating the new values according to the player's selection. Initially, I planned to design the race tracks on my own, but due to time constraints I downloaded them from the internet. I could also implement the two modes completely. I really struggled with the detection of start and finish part of the game. So, I rewatched Daniel Shiffman's PVector videos and some other YouTube tutorials on this topic. I could implement it successfully after hours of trying and failing repeatedly. For this, I used two separate functions i.e. ````updateCheckpoint()```` and ````updateStart()```` to check if the car has entered that particular box / area.
+"Add customizations done by the player to affect the actual gameplay" was accomplished by just maintaining extra variables for each car and updating the new values according to the player's selection. Initially, I planned to design the race tracks on my own, but due to time constraints I downloaded them from the internet. I could also implement the two modes completely. I really struggled with the detection of start and finish part of the game. So, I rewatched Daniel Shiffman's PVector videos and some other YouTube tutorials on this topic. I could implement it successfully after hours of trying and failing repeatedly. For this, I used two separate functions i.e. ````updateCheckpoint()```` and ````updateStart()```` to update the game state to either stop (false) or continue (true) when the car has entered that particular box / area. The main function that actually checked for whether the car has crossed the start line is:
+
+````
+boolean isInsideRect(PVector p, PVector rp, PVector rs) {
+  if (p.x > rp.x - rs.x/2 && p.x < rp.x + rs.x/2 && 
+    p.y > rp.y - rs.y/2 && p.y < rp.y + rs.y/2) {
+    return true;
+  }
+  return false;
+}
+````
