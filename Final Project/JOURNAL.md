@@ -15,20 +15,23 @@ The objective of the player is to complete maximum number of laps in a limited t
   - increase the acceleration
   - change the car’s maximum speed
   - modify the car’s look and sound
-    (etc . . .)
-
 
 The following components for Arduino will be used:
 
 - **Potentiometer** : will use it like a steering wheel.
 - **LCD Screen** : to digitally display the car speed dynamically (like a speedometer) and total lap time.
 - **Button 1** : to accelerate the car forward.
-- **Button 2** : to apply brake.
-- **Button 3** : Nitro / Boost.
-- **Button 4** : Horn.
+- **Button 2** : Nitro / Boost.
+- **Button 3** : Horn.
 - **Buzzer Tone** : to output horn (beep) sound.
 
-I think I'll need to use all of the Processing items / functions for my game.
+The following components for Processing will be used:
+
+- Images and sprites
+- Sound
+- Text
+- Transformations
+- Animation
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/race.jpg" height="230"> &emsp;&emsp; 
 
@@ -121,5 +124,4 @@ Below is the completed circuit (left) and main gameplay screen (right):
 - Add customizations done by the player to affect the actual gameplay.
 - Detection of Start and Finish points on track. 
 - Add three different race tracks.
-- Add a clock / timer.
 - Work on two separate modes.
