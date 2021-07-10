@@ -154,3 +154,13 @@ if (raceStarted == true) {
     raceTime += 1 / frameRate; // seconds timer
 ````
 Then, I went over to designing the Game Over screens in Canva. In mode 1, the screen displays the total number of laps covered in a particular time. While in mode 2, the screen displays the total time it took to complete one lap. Other than that, implementing reset and restart wasn't hard and didn't take much of my time as it was something I had done many number of times previously.
+
+## July 8
+
+**TODAY'S TASKS**
+
+- Create a demo video
+- Clean up the code and optimize
+- Add comments to the final code (in both Processing and Arduino)
+
+Today is the last day and I've been managing my time since the start so I don't have much left to do now except the ones I listed above, which will only take me an hour.
