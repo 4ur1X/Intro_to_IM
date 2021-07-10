@@ -86,7 +86,6 @@ Today I designed and completed the Instructions screen for the game. I chose not
 Below you can see the intructions screen:
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day4.gif" height="230"> &emsp;&emsp;
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/drive_track1.gif" height="230"> &emsp;&emsp;
 
 ## July 4
 
@@ -142,6 +141,7 @@ boolean isInsideRect(PVector p, PVector rp, PVector rs) {
 I also designed the side screen to show different stats like speed, stopwatch, lap number, track map and a compass for direction.
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/sidescreen.png" height="250"> &emsp;&emsp;
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/drive_track1.gif" height="230"> &emsp;&emsp;
 
 ## July 7
 
