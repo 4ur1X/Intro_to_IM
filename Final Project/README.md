@@ -16,7 +16,7 @@ This is the completed circuit (first), game screens (second), gameplay (third):
 
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day6_circuit.jpg" height="250"> &emsp;&emsp;
 <img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/nascar_day1.gif" height="250"> &emsp;&emsp;
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/drive_track1.jpg" height="250"> &emsp;&emsp;
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/drive_track1.jpg" height="250">
 
 [Game Video Demo](https://youtu.be/b6Us0yah0hc)
 
