@@ -10,6 +10,8 @@ The player's job is to customize and optimize his / her car's performance (incre
 
 The player can choose from three different tracks as well.
 
+The game has to be played using the three buttons (to accelerate forward, apply nitro, horn respectively) and a potentiometer for steering the car.
+
 [Game Video Demo](https://youtu.be/b6Us0yah0hc)
 
 #### Schematic:
