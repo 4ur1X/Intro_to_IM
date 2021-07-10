@@ -183,4 +183,4 @@ Moreover, I had to actually figure out a way to use LCD Screen without Potentiom
 
 ## Takeaways and Conclusion
 
-This project was one of my dream projects since childhood. I am an avid car enthusiast and I've always wanted to make a car game like this. Integrating it with Arduino components (instead of the usual keyboard controls) made it even more fun to make and play. The journalling process was really helpful as well as I knew exactly what to work on a particular day. I didn't try to go beyond the tasks assigned for a particular day even though I completed it and had some time left. It made me stay organized.
+This project was one of my dream projects since childhood. I am an avid car enthusiast and I've always wanted to make a car game like this. Integrating it with Arduino components (instead of the usual keyboard controls) made it even more fun to make and play. The journalling process was really helpful as well because I knew exactly what to work on a particular day. I didn't try to go beyond the tasks assigned for a particular day even though I completed it and had some time left. It made me stay organized.
