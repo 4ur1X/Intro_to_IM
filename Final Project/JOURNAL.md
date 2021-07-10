@@ -138,6 +138,10 @@ boolean isInsideRect(PVector p, PVector rp, PVector rs) {
 }
 ````
 
+I also designed the side screen to show different stats like speed, stopwatch, lap number, track map and a compass for direction.
+
+<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/Final%20Project/GIF%20Demos/sidescreen.png" height="250"> &emsp;&emsp;
+
 ## July 7
 
 **TODAY'S TASKS**
