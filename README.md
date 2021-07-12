@@ -3,12 +3,15 @@ Introduction to Interactive Media class's repository for all assignments and pro
 
 I'm just listing down my works below (if you don't wish to click on each directory) :
 
-- **MAY 26 -** Drawing a portrait using simple shapes and lines in Processing.
-- **MAY 27 -** Artwork using loops.
-- **MAY 31 -** Game using functions.
-- **JUNE 1 -** Artwork using OOP approach.
-- **JUNE 3 -** Solar System using transformations.
-- **JUNE 7 -** Image manipulation using pixels.
-- **JUNE 14 -** Arduino LED blinks.
-- **JUNE 17 -** Creativity using Analog sensor and Digital sensor
-- **MIDTERM -** TunesUI MP3 Audio Player
+- **MAY 26** - Drawing a portrait using simple shapes and lines in Processing
+- **MAY 27** - Artwork using loops
+- **MAY 31** - Game using functions
+- **JUNE 1** - Artwork using OOP approach
+- **JUNE 3** - Solar System using transformations
+- **JUNE 7** - Image manipulation using pixels
+- **JUNE 14** - Arduino LED blinks
+- **JUNE 17** - Creativity using Analog sensor and Digital sensor
+- **MIDTERM** - TunesUI MP3 Audio Player
+- **JUNE 21** - Musical Instrument using Analog Sensor (Potentiometer) and Digital Sensor (Switch)
+- **JUNE 28** - Ping Pong Inspired Game using Serial Communication between Arduino and Processing
+- **FINAL PROJECT** - NASCAR Circuit Training Car Simulator Game 2D
